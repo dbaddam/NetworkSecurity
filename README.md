@@ -1,1 +1,1 @@
-# NetworkSecurity
+# CSE508: Network Security, Fall 2017

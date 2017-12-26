@@ -1,2 +1,2 @@
-mydump: mydump.c
-	gcc -o mydump mydump.c -lpcap
+pbproxy: pbproxy.c
+	gcc -o pbproxy pbproxy.c -lcrypto
